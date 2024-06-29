@@ -1,0 +1,7 @@
+gerador_curriculo/
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── index.php
+└── process.php
